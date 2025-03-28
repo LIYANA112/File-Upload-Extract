@@ -2,3 +2,4 @@ streamlit
 google-generativeai
 pdf2image
 pillow
+poppler-utils
